@@ -34,7 +34,3 @@ AI ethicist at heart. Data Engineer & ML-Ops by trade.
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=dvrk-dvys&theme=dark&hide_border=false" height="150" alt="streak graph"/>
 </div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dvrk-dvys&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&row=1&column=6" alt="trophy graph"/>
-</div>
