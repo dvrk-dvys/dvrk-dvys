@@ -32,7 +32,6 @@ AI ethicist at heart. Data Engineer & ML-Ops by trade.
 
 ## ⚡ Stats ⚡
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dvrk-dvys&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"/>
   <img src="https://streak-stats.demolab.com/?user=dvrk-dvys&theme=dark&hide_border=false" height="150" alt="streak graph"/>
 </div>
 
