@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./mobius-strip.png" alt="Mobius Strip" width="100%" />
+<img src="mobius-strip.png" alt="Mobius Strip" width="400"/>
 </div>
 
 AI ethicist at heart. Data Engineer & ML-Ops by trade.
