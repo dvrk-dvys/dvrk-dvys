@@ -32,11 +32,6 @@ AI ethicist at heart. Data Engineer & ML-Ops by trade.
 
 ## ⚡ Stats ⚡
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dvrk-dvys&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"/>
-  <img src="https://streak-stats.demolab.com/?user=dvrk-dvys&theme=dark&hide_border=false" height="150" alt="streak graph"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvrk-dvys&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=c,objective-c" height="150" alt="languages graph"/>
 </div>
 
@@ -46,10 +41,4 @@ AI ethicist at heart. Data Engineer & ML-Ops by trade.
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dvrk-dvys&theme=github-dark&hide_border=true" alt="activity graph"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dvrk-dvys&style=flat-square&color=blue" alt="Profile views"/>
 </div>
