@@ -3,8 +3,6 @@
 AI ethicist at heart. Data Engineer & ML-Ops by trade.
 </div>
 
-AI ethicist at heart. Data Engineer & ML-Ops by trade.
-
 ## About Me
 
 > 🤖 Currently building an agentic RAG system to detect user affinity groups, online factions & LLM Bot activity by applying NLP & NLI paradigms to web intelligence.
