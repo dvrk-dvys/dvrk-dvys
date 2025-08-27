@@ -1,10 +1,13 @@
-# Hi there! 👋
+<div align="center">
+  <img src="images/mobius-strip.png" alt="Mobius Strip" width="400"/>
+</div>
 
-I am an AI Engineer who turns data and large language models into reliable, production systems. I focus on NLP, RAG, and agentic workflows with a strong MLOps mindset across cloud platforms. With roots in software engineering and experience in ML, I bridge deep tech with business outcomes—shipping solutions that are observable, reproducible, and measurably useful.
+AI ethicist at heart. Data Engineer & ML-Ops by trade.
 
 ## About Me
 
-- 🤖 Currently building AI-powered applications and ML pipelines
+> 🤖 Currently building an agentic RAG system to detect user affinity groups, online factions & LLM Bot activity by applying NLP & NLI paradigms to web intelligence.
+
 - 📧 How to reach me: [Email](mailto:ja.harr91@gmail.com)
 - 💼 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/jordan-alexander-harris/)
 
