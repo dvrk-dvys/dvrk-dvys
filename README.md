@@ -8,7 +8,8 @@ AI ethicist at heart. Data Engineer & ML-Ops by trade.
 > 🤖 Currently building an agentic RAG system to detect user affinity groups, online factions & LLM Bot activity by applying NLP & NLI paradigms to web intelligence.
 
 - 📧 How to reach me: [Email](mailto:ja.harr91@gmail.com)
-- 💼 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/jordan-alexander-harris/)
+- 💼 My Corporate Experience & Education: [LinkedIn](https://www.linkedin.com/in/jordan-alexander-harris/)
+- 👨‍💻 My portfolio of Projects: [Portfolio](https://www.datascienceportfol.io/jaharr91)  WIP: Currently updating and consolidating my project for the portfolio 
 
 ## Connect with me:
 
