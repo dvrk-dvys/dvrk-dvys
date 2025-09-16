@@ -9,7 +9,8 @@ AI ethicist at heart. Data Engineer & ML-Ops by trade.
 
 - 📧 How to reach me: [Email](mailto:ja.harr91@gmail.com)
 - 💼 My Corporate Experience & Education: [LinkedIn](https://www.linkedin.com/in/jordan-alexander-harris/)
-- 👨‍💻 My portfolio of Projects: [Portfolio](https://www.datascienceportfol.io/jaharr91)  WIP: Currently updating and consolidating my project for the portfolio 
+- 👨‍💻 My portfolio of Projects: [Portfolio](https://www.datascienceportfol.io/jaharr91)    *WIP: Currently updating and consolidating my project for the portfolio*
+ 
 
 ## Connect with me:
 
